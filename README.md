@@ -1,1 +1,1 @@
-﻿# GaneshNepaliQuiz this is new update 
+﻿# GaneshNepaliQuiz 
